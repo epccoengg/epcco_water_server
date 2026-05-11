@@ -1,4 +1,4 @@
 {
   "version": "1.0.7",
-  "bin_url": "https://github.com/epccoengg/epcco_water_server/raw/refs/heads/main/ws_firmware.bin"
+  "bin_url": "https://github.com/epccoengg/epcco_water_server/raw/refs/heads/main/server_code.ino.bin"
 }
