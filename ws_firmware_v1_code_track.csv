@@ -1,7 +1,0 @@
-FW VER,1.1.2,WS_FIRMWARE FOR WATER SERVER,,
-SL NO,ISSUES/BUGS,,STATUS,REMARKS
-1,Serial Port hangs after OTA,,UNDER TEST,
-2,Tank Level Type parsing success but not updating after read from prefs,,UNDER DEBUGGING,
-3,IO CONFIG PAGE NOT PROPERLY SAVING AND RETRIVING,,UNDER TEST,
-4,,,,
-5,,,,
