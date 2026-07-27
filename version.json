@@ -1,8 +1,8 @@
 ﻿{
   "product": "HAIdro_WS",
   "board": "Arduino Nano ESP32",
-  "version": "1.3.17",
-  "buildNumber": "27072026/152246",
+  "version": "1.3.20",
+  "buildNumber": "27072026/155637",
   "binUrl": "https://raw.githubusercontent.com/epccoengg/epcco_water_server/main/ws_firmware.ino.bin",
   "size": 1538736
 }
